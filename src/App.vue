@@ -58,7 +58,7 @@ setup()
 
 <template>
   
-  <div class="container mx-auto">
+  <div class="container mx-auto p-4">
   
   <h1 class="text-4xl font-bold mt-8">
   Developer Jobs
