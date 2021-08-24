@@ -38,10 +38,10 @@ setup()
 
       var time = new Date(iso).toLocaleDateString();
 
-      console.log(time);
-
       return time;
-    } catch (e)
+    }
+    
+    catch (e)
     {
       console.log(e.message);
     }
