@@ -71,7 +71,7 @@ setup()
   <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mt-8">
     
     <a v-for="result in data.results" :key="result.id" :href="result.link"
-      class="border rounded p-4" target="_top"
+      class="border rounded p-4" target="_blank"
      >
     
       <div class="font-semibold text-lg mb-4">
